@@ -1,4 +1,4 @@
 helium
 ======
 
-Static Blog Generator
+A Scala Static Blog Generator
